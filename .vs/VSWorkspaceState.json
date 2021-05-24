@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Http\\Controllers",
+    "\\app\\Http",
     "\\database",
     "\\database\\migrations",
     "\\public",
+    "\\resources",
     "\\resources\\views",
     "\\resources\\views\\Home",
     "\\resources\\views\\layouts"
   ],
+  "SelectedNode": "\\app\\Http\\Controllers\\HomeController.php",
   "PreviewInSolutionExplorer": false
 }
