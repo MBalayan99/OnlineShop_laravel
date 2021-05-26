@@ -7,16 +7,14 @@ use App\Models\Product;
 
 class HomeController extends Controller
 {
-    public function index(){
-         $products = Product::orderBy('created_at')->take(8)->get();
+        public function index(){
+         $products = Product::orderBy('created_at')->take(10)->get();
 
-        return view('home.index',[
+           return view('home.index',[
             'products' => $products
         ]);
        
     
     
-    //dd($products);
-       // return view('home.index');
     }
 }

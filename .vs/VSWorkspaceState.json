@@ -10,5 +10,6 @@
     "\\database\\migrations",
     "\\routes"
   ],
+  "SelectedNode": "\\app\\Models\\ProductImage.php",
   "PreviewInSolutionExplorer": false
 }
