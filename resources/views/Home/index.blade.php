@@ -153,9 +153,8 @@
                                     <div class="product_price">${{$product->price}}</div>
                                 </div>
                             </div>
-                        </div>
-
-                        @endforeach
+                        	</div>
+			@endforeach
                     </div>
 
                 </div>
